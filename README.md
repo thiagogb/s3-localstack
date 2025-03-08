@@ -1,6 +1,5 @@
 # S3 Console - Spring Shell Application for AWS S3
 
-[![Java CI with Maven](https://github.com/yourusername/s3-console/actions/workflows/maven-test.yml/badge.svg)](https://github.com/yourusername/s3-console/actions/workflows/maven-test.yml)
 [![Coverage](.github/badges/jacoco.svg)](.github/badges/jacoco.svg)
 [![Branches](.github/badges/branches.svg)](.github/badges/branches.svg)
 
