@@ -1,5 +1,9 @@
 # S3 Console - Spring Shell Application for AWS S3
 
+[![Java CI with Maven](https://github.com/yourusername/s3-console/actions/workflows/maven-test.yml/badge.svg)](https://github.com/yourusername/s3-console/actions/workflows/maven-test.yml)
+[![Coverage](.github/badges/jacoco.svg)](.github/badges/jacoco.svg)
+[![Branches](.github/badges/branches.svg)](.github/badges/branches.svg)
+
 This Spring Shell application allows you to interact with AWS S3 buckets to perform operations such as listing, creating, and deleting buckets, as well as managing files within them. It was developed to work with LocalStack for local testing.
 
 ## Project Structure

@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Logs ###
+s3-console.log
