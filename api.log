@@ -1,0 +1,44 @@
+1741467705582:list
+1741467766849:upload /home/thiago.borba/Downloads/GwentDeck.json
+1741467773113:list
+1741467847819:upload /home/thiago.borba/Downloads/GwentDeck (2).json
+1741467861568:upload /home/thiago.borba/Downloads/GwentDeck(2).json
+1741467879790:upload "/home/thiago.borba/Downloads/GwentDeck (2).json"
+1741467894556:upload "/home/thiago.borba/Downloads/GwentDeck (2).json" GwentDeckCustomName.json
+1741467896921:list
+1741467920911:delete GwentDeck.json
+1741467923191:list
+1741468183530:clear
+1741468197218:list
+1741468268112:cenbkt
+1741468280663:a-uck
+1741468283931:l
+1741468296259:list
+1741468299918:clean-bucket
+1741468320979:clean-bucket --confirmat sim
+1741468325794:clean-bucket --confirmar sim
+1741468328379:list
+1741469101208:help
+1741469111483:list-buckets
+1741469240630:use-bucket myfirstbucket
+1741469243729:list
+1741469271842:upload "/home/thiago.borba/Downloads/GwentDeck.json"
+1741469274749:list
+1741469282115:help
+1741469289763:current-bucket
+1741469298992:list-buckets
+1741469309290:delete-bucket myfirstbucket
+1741469321059:wipe
+1741469326545:delete-bucket myfirstbucket
+1741469330390:list
+1741469336660:list-buckets
+1741469339822:help
+1741469355242:create-bucket testbucket
+1741469361507:use-bucket testbucket
+1741469367402:upload "/home/thiago.borba/Downloads/GwentDeck.json"
+1741469369103:list
+1741469374357:wipe
+1741470142264:help
+1741470158611:exit
+1741471768619:help
+1741471778267:list-buckets

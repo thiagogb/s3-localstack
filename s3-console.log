@@ -1,0 +1,7 @@
+1741472461497:list
+1741472464243:list-buckets
+1741472471438:use-bucket testbucket
+1741472474157:list-files
+1741472483733:delete-bucket testbucket
+1741472489177:list-buckets
+1741472492990:quit
